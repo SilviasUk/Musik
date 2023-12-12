@@ -1,2 +1,2 @@
-# mosik
+# Musik
 A cool music thing :L
